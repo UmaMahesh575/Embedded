@@ -1,2 +1,1 @@
-# Embeeded
-.globl _start
+globl _start
